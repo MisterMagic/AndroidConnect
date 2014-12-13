@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Connect</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_game">AddGame</string>
+    <string name="title_activity_add_picture">AddPicture</string>
+    <string name="title_activity_picture_list_view">PictureListView</string>
+    <string name="title_activity_picture_item">PictureItem</string>
+
+</resources>
