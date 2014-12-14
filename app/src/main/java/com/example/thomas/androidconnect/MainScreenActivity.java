@@ -37,6 +37,7 @@ public class MainScreenActivity extends Activity {
     ArrayList<String> wedstrijden = new ArrayList<String>();
     ArrayAdapter<String> adapter;
     Context context;
+    //test github gilles
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
